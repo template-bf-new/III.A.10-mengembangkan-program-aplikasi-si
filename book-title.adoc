@@ -1,0 +1,33 @@
+= Dokumen Pengembangan Program Aplikasi Sistem Informasi
+
+[.text-center]
+Priyanto Tamami <tamami.oka@gmail.com>
+
+[.text-center]
+Badan Pendapatan Daerah +
+Pemerintah Kabupaten Brebes
+
+:doctype: article
+:author: tamami
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Bab
+:figure-caption: Gambar 
+:icons: font
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+
+== Kondisi / Permasalahan Sistem Lama
+
+== Kebutuhan / Perbaikan Pengembangan Sistem
+
+== Spesifikasi Sistem Baru
+
+== _Source Code_ Dokumen Perubahan Yang Dilakukan Pada Sistem Lama Untuk Menghasilkan Sistem Baru
